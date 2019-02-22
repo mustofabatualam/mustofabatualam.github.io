@@ -1,0 +1,68 @@
+creator: dennyrwa
+lang: id
+locale: id_ID
+title: Batu Alam Tulungagung
+company: CV. Batu Alam Tulungagung
+description: Hubungi / WA ke 081230-18282-1, Kami melayani penjualan dan pemesanan Batu Alam paling murah di Tulungagung. Kami melayani dalam dan luar kota Tulungagung.
+keywords: Batu Alam tulungagung, jual batu alam, jual batu teraso, pabrik batu alam, harga batu alam, batu alam dinding, batu sikat, jenis batu alam, tembok batu alam, suplier batu alam,  
+section-1: Batu Alam Tulungagung
+section-1-a: Industri pengolahan batu alam di Tulungagung, Produk kami seperti Batu Teraso dan Marmo, Palimanan dan Mill
+section-1-b: Layanan penjualan dan pemesanan Hubungi / WA ke 081230-18282-1
+section-2: Tentang Kami
+section-2-a: CV. Batu Alam Tulungagung adalah perusahaan pengolahan batu alam, industri kami menghasilkan produk-produk berbagai macam varian dari hasil pengolahan batu alam, seperti Batu Teraso dan Marmo, Palimanan dan Mill, kami melayani berbagai sekmen konsumen, perorangan, perusahaan swasta dan BUMN serta instansi-instansi di pemerintah. Jika anda memiliki pertanyaan tentang layanan kami silahkan menghubungi kami melalui telepon, sms, WA ataupun email kami. Terimakasih dan selamat menikmati layanan dari kami.
+section-3: Cara Pemesanan
+section-3-a: Hubungi Kami
+section-3-a-des: Telepon atau WA kami segera dan konsultasikan kebutuhan Anda.
+section-3-b: Tentukan Jadwal
+section-3-b-des: Segera tentukan jadwal meeting dengan kami.
+section-3-c: Bayar Uang Muka
+section-3-c-des: Lakukan pembayaran uang muka sebagai tanda jadi.
+section-3-d: Ambil / Kirim Barang
+section-3-d-des: Kami akan mengirim atau Anda mengambil barang pada tanggal yang telah ditentukan.
+section-4: Tunggu Apalagi
+section-4-a: Segera konsultasikan kebutuhan Anda
+section-4-b: Hubungi Kami
+section-5: Produk Kami
+section-6: Frequently Asked Questions
+section-7: Testimoni
+section-8: Gallery
+logo-2: /img/logo-batu-alam-hitam.png
+visi-1: CV. Batu Alam Tulungagung adalah sebuah Perusahaan pengolahan batu alam seperti marmer menjadi Batu Teraso dan Marmo, Palimanan dan Mill dan juga berkantor di Tulungagung, Jawa Timur.
+visi-2: Jika anda memiliki pertanyaan tentang layanan kami silahkan menghubungi kami melalui telepon, sms, WA ataupun email kami.
+twitter: 
+instagram: https://www.instagram.com/batu_teraso_tulungagung
+facebook: 
+email: topa@batualamtulungagung.com
+copyright: © Copyright <strong>Batu Alam Tulungagung</strong>. All Rights Reserved and All the trademarks are the property of their respective owners
+whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6281230182821&text=Hallo, CV. Batu Alam Tulungagung
+whatsapp-float-phone: whatsapp://send?text=Hallo, CV. Batu Alam Tulungagung!&phone=+6281230182821
+exclude: [README.md]
+type: industry
+streetAddress: Jalan IMIT
+address: RT 3 RW 1, Dsn. Pabrik, Besole, Besuki, Tulungagung, Jawa Timur, Indonesia
+postalCode: 66275
+telephone: +6281230182821
+telephonedetail: 081230-18282-1
+fb_app_id: 
+google-my-bussiness: https://www.google.com/maps/place/8%C2%B013'23.2%22S+111%C2%B049'24.7%22E/@-8.2236071,111.8235794,17z/data=!4m6!3m5!1s0x2e79203adba1e4f7:0x4a2bdd46f9185e0c!7e2!8m2!3d-8.2231218!4d111.8235281
+whatsapp-api: https://api.whatsapp.com/send?text=Hallo%20Batu%20Alam%20Tulungagung%20&%20(Name)%20(Address)%20&phone=6281230182821
+favicon: /favicon.ico
+siteurl: https://batualamtulungagung.com
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+collections:
+  data-testimoni:
+    output: true
+    permalink: /data-testimoni/:name
+  data-products:
+    output: true
+  data-faq:
+    output: true
+  data-gallery:
+    output: true
+  data-instagram:
+    output: true
+  data-youtube:
+    output: true
