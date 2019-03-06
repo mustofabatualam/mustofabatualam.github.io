@@ -50,7 +50,6 @@ favicon: /favicon.ico
 siteurl: https://batualamtulungagung.com
 permalink: pretty
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
 collections:
   data-testimoni:
