@@ -1,7 +1,7 @@
 ---
 amp-img-scr: /img/16-wastafel.jpg
-amp-img-width: 750
-amp-img-height: 750
+amp-img-width: 800
+amp-img-height: 600
 amp-img-layout: responsive
 amp-img-alt: Wastafel Pendestal Teraso
 text-title: Wastafel Pendestal Teraso
