@@ -3,11 +3,11 @@ lang: id
 locale: id_ID
 title: Batu Alam Tulungagung
 company: CV. Batu Alam Tulungagung
-description: Hubungi / WA ke 081230-18282-1, Kami melayani penjualan dan pemesanan Batu Alam paling murah di Tulungagung. Kami melayani dalam dan luar kota Tulungagung.
+description: Hubungi / WA ke 0812-3379-2428, Kami melayani penjualan dan pemesanan Batu Alam paling murah di Tulungagung. Kami melayani dalam dan luar kota Tulungagung.
 keywords: Batu Alam tulungagung, jual batu alam, jual batu teraso, pabrik batu alam, harga batu alam, batu alam dinding, batu sikat, jenis batu alam, tembok batu alam, suplier batu alam,  
 section-1: Batu Alam Tulungagung
 section-1-a: Industri pengolahan batu alam di Tulungagung, Produk kami seperti Batu Teraso dan Marmo, Palimanan dan Mill
-section-1-b: Layanan penjualan dan pemesanan Hubungi / WA ke 081230-18282-1
+section-1-b: Layanan penjualan dan pemesanan Hubungi / WA ke 0812-3379-2428
 section-2: Tentang Kami
 section-2-a: CV. Batu Alam Tulungagung adalah perusahaan pengolahan batu alam, industri kami menghasilkan produk-produk berbagai macam varian dari hasil pengolahan batu alam, seperti Batu Teraso dan Marmo, Palimanan dan Mill, kami melayani berbagai sekmen konsumen, perorangan, perusahaan swasta dan BUMN serta instansi-instansi di pemerintah. Jika anda memiliki pertanyaan tentang layanan kami silahkan menghubungi kami melalui telepon, sms, WA ataupun email kami. Terimakasih dan selamat menikmati layanan dari kami.
 section-3: Cara Pemesanan
@@ -34,22 +34,25 @@ instagram: https://www.instagram.com/batu_teraso_tulungagung
 facebook: 
 email: topa@batualamtulungagung.com
 copyright: © Copyright <strong>Batu Alam Tulungagung</strong>. All Rights Reserved and All the trademarks are the property of their respective owners
-whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6281230182821&text=Hallo, CV. Batu Alam Tulungagung
-whatsapp-float-phone: whatsapp://send?text=Hallo, CV. Batu Alam Tulungagung!&phone=+6281230182821
+whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6281233792428&text=Hallo, CV. Batu Alam Tulungagung
+whatsapp-float-phone: whatsapp://send?text=Hallo, CV. Batu Alam Tulungagung!&phone=+6281233792428
 exclude: [README.md]
 type: industry
 streetAddress: Jalan IMIT
 address: RT 3 RW 1, Dsn. Pabrik, Besole, Besuki, Tulungagung, Jawa Timur, Indonesia
 postalCode: 66275
-telephone: +6281230182821
-telephonedetail: 081230-18282-1
+telephone: +6281233792428
+telephonedetail: 0812-3379-2428
+telephone2: +6281259741901
+telephonedetail2: 0812-5974-1901
 fb_app_id: 
 google-my-bussiness: https://maps.app.goo.gl/4BmJE
-whatsapp-api: https://api.whatsapp.com/send?text=Hallo%20Batu%20Alam%20Tulungagung%20&%20(Name)%20(Address)%20&phone=6281230182821
+whatsapp-api: https://api.whatsapp.com/send?text=Hallo%20Batu%20Alam%20Tulungagung%20&%20(Name)%20(Address)%20&phone=6281233792428
 favicon: /favicon.ico
 siteurl: https://batualamtulungagung.com
 permalink: pretty
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
 collections:
   data-testimoni:
