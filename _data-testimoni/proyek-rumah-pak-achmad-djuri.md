@@ -1,6 +1,6 @@
 ---
 layout: post
-amp-img-scr: /img/gili-ketapang.jpeg
+amp-img-scr: /img/rumah-pak-achmad-juri.jpg
 amp-img-width: 800
 amp-img-height: 800
 amp-img-layout: responsive
@@ -21,7 +21,7 @@ title: PROYEK RUMAH PAK AHMAD DJURI
 <div class="row">
 <div class="col-12">
 <br>
-<amp-img class="advanced-feature-img-right wow fadeInRight" src="/img/gili-ketapang.jpeg" width="800" height="800" layout="responsive" alt="batu alam tulungagung"></amp-img>
+<amp-img class="advanced-feature-img-right wow fadeInRight" src="/img/rumah-pak-achmad-juri.jpg" width="800" height="800" layout="responsive" alt="batu alam tulungagung"></amp-img>
 <div class="wow fadeInLeft">
 <br>
 <h2>PROYEK RUMAH PAK ACHMAD DJURI</h2>

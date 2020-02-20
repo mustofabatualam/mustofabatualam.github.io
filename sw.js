@@ -284,7 +284,7 @@ self.__precacheManifest = [
     "revision": "b288a632f7c4fe0182b0f30b8a479a31"
   },
   {
-    "url": "img/gili-ketapang.jpeg",
+    "url": "img/rumah-pak-achmad-juri.jpg",
     "revision": "f066516c83ec0a1e792a16880eb78a00"
   },
   {

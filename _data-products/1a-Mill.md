@@ -8,4 +8,5 @@ text-title: Mill
 list-1: Ukuran &#58; Tepung
 list-2: Warna &#58; Putih
 list-3: biasanya digunakan untuk campuran bahan baku pakan, lantai, trotoar, diding, car pot, dll
+url-tokopedia: giselleshoes/sellyne-flat-shoes-import-pink?src=topads
 ---
