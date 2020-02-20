@@ -2,14 +2,16 @@ creator: dennyrwa
 lang: id
 locale: id_ID
 title: Batu Alam Tulungagung
-company: CV. Batu Alam Tulungagung
+company: CV. Batu Alam Sejahtera Tulungagung
+url: https://batualamtulungagung.com
+siteurl: https://batualamtulungagung.com
 description: Hubungi / WA ke 0812-3379-2428, Kami melayani penjualan dan pemesanan Batu Alam paling murah di Tulungagung. Kami melayani dalam dan luar kota Tulungagung.
 keywords: Batu Alam tulungagung, jual batu alam, jual batu teraso, pabrik batu alam, harga batu alam, batu alam dinding, batu sikat, jenis batu alam, tembok batu alam, suplier batu alam,  
 section-1: Batu Alam Tulungagung
-section-1-a: Industri pengolahan batu alam di Tulungagung, Produk kami seperti Batu Teraso dan Marmo, Palimanan dan Mill
+section-1-a: Kami adalah Industri pengolahan batu alam di Tulungagung, Produk kami seperti Batu Teraso dan Marmo, Palimanan dan Mill
 section-1-b: Layanan penjualan dan pemesanan Hubungi / WA ke 0812-3379-2428
 section-2: Tentang Kami
-section-2-a: CV. Batu Alam Tulungagung adalah perusahaan pengolahan batu alam, industri kami menghasilkan produk-produk berbagai macam varian dari hasil pengolahan batu alam, seperti Batu Teraso dan Marmo, Palimanan dan Mill, kami melayani berbagai sekmen konsumen, perorangan, perusahaan swasta dan BUMN serta instansi-instansi di pemerintah. Jika anda memiliki pertanyaan tentang layanan kami silahkan menghubungi kami melalui telepon, sms, WA ataupun email kami. Terimakasih dan selamat menikmati layanan dari kami.
+section-2-a: CV. Batu Alam Sejahtera Tulungagung adalah perusahaan pengolahan batu alam, industri kami menghasilkan produk-produk berbagai macam varian dari hasil pengolahan batu alam, seperti Batu Teraso dan Marmo, Palimanan dan Mill, kami melayani berbagai sekmen konsumen, perorangan, perusahaan swasta dan BUMN serta instansi-instansi di pemerintah. Jika anda memiliki pertanyaan tentang layanan kami silahkan menghubungi kami melalui telepon, sms, WA ataupun email kami. Terimakasih dan selamat menikmati layanan dari kami.
 section-3: Cara Pemesanan
 section-3-a: Hubungi Kami
 section-3-a-des: Telepon atau WA kami segera dan konsultasikan kebutuhan Anda.
@@ -27,15 +29,15 @@ section-6: Frequently Asked Questions
 section-7: Testimoni
 section-8: Gallery
 logo-2: /img/logo-batu-alam-hitam.png
-visi-1: CV. Batu Alam Tulungagung adalah sebuah Perusahaan pengolahan batu alam seperti marmer menjadi Batu Teraso dan Marmo, Palimanan dan Mill dan juga berkantor di Tulungagung, Jawa Timur.
+visi-1: CV. Batu Alam Sejahtera Tulungagung adalah sebuah Perusahaan pengolahan batu alam seperti marmer menjadi Batu Teraso dan Marmo, Palimanan dan Mill dan juga berkantor di Tulungagung, Jawa Timur.
 visi-2: Jika anda memiliki pertanyaan tentang layanan kami silahkan menghubungi kami melalui telepon, sms, WA ataupun email kami.
 twitter: 
 instagram: https://www.instagram.com/batu_teraso_tulungagung
 facebook: 
 email: topa@batualamtulungagung.com
-copyright: © Copyright <strong>Batu Alam Tulungagung</strong>. All Rights Reserved and All the trademarks are the property of their respective owners
-whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6281233792428&text=Hallo, CV. Batu Alam Tulungagung
-whatsapp-float-phone: whatsapp://send?text=Hallo, CV. Batu Alam Tulungagung!&phone=+6281233792428
+copyright: © Copyright <strong>CV. Batu Alam Sejahtera Tulungagung</strong>. All Rights Reserved and All the trademarks are the property of their respective owners
+whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6281233792428&text=Hallo, CV. Batu Alam Sejahtera Tulungagung
+whatsapp-float-phone: whatsapp://send?text=Hallo, CV. Batu Alam Sejahtera Tulungagung!&phone=+6281233792428
 exclude: [README.md]
 type: industry
 streetAddress: Jalan IMIT
@@ -49,7 +51,6 @@ fb_app_id:
 google-my-bussiness: https://maps.app.goo.gl/4BmJE
 whatsapp-api: https://api.whatsapp.com/send?text=Hallo%20Batu%20Alam%20Tulungagung%20&%20(Name)%20(Address)%20&phone=6281233792428
 favicon: /favicon.ico
-siteurl: https://batualamtulungagung.com
 permalink: pretty
 plugins:
   - jekyll-sitemap
